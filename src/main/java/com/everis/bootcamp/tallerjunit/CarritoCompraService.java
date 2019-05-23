@@ -11,6 +11,7 @@ public class CarritoCompraService {
 		System.out.println("Prueba");
 		System.out.println("Prueba");
 		System.out.println("Prueba");
+		System.out.println("He tardado casi una hora con git");
 		articulos = new ArrayList<Articulo>();
 	}
 	
