@@ -8,10 +8,6 @@ public class CarritoCompraService {
 	List<Articulo> articulos = new ArrayList<Articulo>();
 	
 	public void limpiarCesta(){
-		System.out.println("Prueba");
-		System.out.println("Prueba");
-		System.out.println("Prueba");
-		System.out.println("He tardado casi una hora con git");
 		articulos = new ArrayList<Articulo>();
 	}
 	
